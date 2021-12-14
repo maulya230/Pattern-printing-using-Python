@@ -53,6 +53,7 @@ Write code in python to print following patterns :-
 4 3 2 1
 
 5 4 3 2 1
+
 -------------------------------------------------
 5.
 
@@ -63,5 +64,6 @@ Write code in python to print following patterns :-
 6 5 4 
 
 10 9 8 7 
+
 ------------------------------------------------
 
